@@ -1,0 +1,117 @@
+/*==========FORMATTING SECTION==========*/
+body {
+    margin-left: 0px, 30px, 0px, 30px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: light;
+    background-image: url(snowmobiletracks.jpg);
+    background-repeat: repeat;
+    background-size: cover;
+    margin: 0px;
+
+}
+
+#history {
+    text-align: left;
+    font-family: sans-serif;
+    font-style: italic;
+}
+
+#banner {
+    font-size: 45px;
+    color: black;
+    font-family: Impact, Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#navbar {
+    background-color: black;
+    border-radius: 5px;
+}
+
+#navbar ul li a {
+    text-align: left;
+    color: white;
+    background-color: black;
+    display: inline;
+    text-decoration: none;
+    list-style-type: none;
+    border: 2px black solid;
+    padding: 4px;
+    line-height: 2em;
+}
+
+#navbar ul li {
+    list-style-type: none;
+    display: inline;   
+}
+
+#navbar ul li a:hover {
+    background-color: white;
+    color: black;
+    opacity: 1.0;
+    border-radius: 50px;
+    border: rgb(79, 240, 79) 3px solid;
+}
+
+footer {
+    background-color: black;
+    height: 30px;
+    width: auto;
+    font-size: 16px;
+    color: white;
+    font-weight: lighter;
+    line-height: 2em;
+  
+    bottom: 0;
+    width: 100%;
+    height: 30px;
+}
+
+
+
+/*========== Membership page ==========*/
+
+.leader {
+    color: white;
+    list-style-type: none;
+    font-size: 25px;
+    background-color: black;
+    border-radius: 5px;
+    margin: 10px;
+    text-align: center;
+    margin-left: 450px;
+    margin-right: 450px;
+    line-height: 2em;
+
+  
+}
+
+/*========== Swap Meet page ==========*/
+
+#signup a {
+    text-align: center;
+    color: white;
+    background-color: black;
+    display: inline;
+    text-decoration: none;
+    list-style-type: none;
+    line-height: 2em;
+    border-radius: 50px;
+    padding: 6px;
+}
+
+#signup {
+    text-align: center;
+}
+
+#signup a:hover {
+    background-color: white;
+    color: black;
+    opacity: 1.0;
+    border: rgb(79, 240, 79) 3px solid;
+    border-radius: 50px;
+    padding: 4px;
+  
+}
+
